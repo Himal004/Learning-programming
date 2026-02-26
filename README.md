@@ -1,2 +1,3 @@
 # Learning-programming
-This is my first git repository   &lt;br>Author Himal Joshi
+This is my first git Repository
+<br>  Author Himal Joshi
